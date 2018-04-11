@@ -79,6 +79,10 @@ h3 {
     margin-right: 15%;
 }
 
+.section-features .long-copy {
+    margin-bottom: 30px;
+}
+
 .btn:link,
 .btn:visited {
     display: inline-block;
