@@ -55,4 +55,7 @@ $(document).ready(function() {
         }
     }
     });
+
+
+    /****   ANIMATIONS ON SCROLL ********/
 })
