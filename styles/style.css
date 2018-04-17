@@ -152,6 +152,7 @@ input[type=submit]:active {
     margin-top: 20px;
 }
 
+/* main-nav */
 .main-nav {
     float: right;
     list-style: none;
@@ -179,6 +180,18 @@ input[type=submit]:active {
 .main-nav li a:active {
     border-bottom: 2px solid #cf6d17;
 }
+
+
+/* STICKY NAVI */
+.sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.98);
+}
+
+
 
 section {
     padding: 80px 0;
